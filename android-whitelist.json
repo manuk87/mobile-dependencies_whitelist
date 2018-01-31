@@ -1,26 +1,28 @@
 {
-    "whitelist": [
-        {
-            "group":"com\\.mercadolibre\\.android\\.sdk"
-        },
-        {
-            "group":"com\\.mercadolibre\\.android\\.recommendations"
-        },
-        {
-            "group":"com\\.android\\.support\\.constraint",
-            "name":"constraint-layout"
-        },
-        {
-            "group":"com\\.mercadolibre\\.android",
-            "name":"shipping\\-components"
-        },
-        {
-            "group":"com\\.mercadolibre\\.android\\.cart",
-            "name":"manager"
-        },
-        {
-            "group":"com\\.mercadolibre\\.android\\.search",
-            "name":"input"
-        }
-    ]
+	"whitelist": [{
+			"group": "com\\.mercadolibre\\.android\\.sdk"
+		},
+		{
+			"group": "com\\.mercadolibre\\.android\\.recommendations"
+		},
+		{
+			"group": "com\\.android\\.support\\.constraint",
+			"name": "constraint-layout"
+		},
+		{
+			"group": "com\\.mercadolibre\\.android",
+			"name": "shipping\\-components"
+		},
+		{
+			"group": "com\\.mercadolibre\\.android\\.cart",
+			"name": "manager"
+		},
+		{
+			"group": "com\\.mercadolibre\\.android\\.search",
+			"name": "input"
+		},
+		{
+			"group": "com\\.mercadopago\\:sdk"
+		}
+	]
 }
