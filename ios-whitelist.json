@@ -1,50 +1,53 @@
+
 {
-  "whitelist": [
-    {
-      "name": "MeliSDK",
-      "version": "^~>\\s?6.[0-9]+$"
-    },
-    {
-      "name": "MLCart",
-      "version": "^~>\\s?2.[0-9]+"
-    },
-    {
-      "name": "MLRecommendations",
-      "version": "^~>\\s?4.[0-9]+"
-    },
-    {
-      "name": "MLAppRater",
-      "version": "^~>\\s?3.[0-9]+$"
-    },
-    {
-      "name": "MLImagePicker",
-      "version": "^~>\\s?0.[0-9]+$"
-    },
-    {
-      "name": "MPTopFloatingView",
-      "version": "^~>\\s?0.[0-9]+$"
-    },
-    {
-      "name": "MLPlace",
-      "version": "^~>\\s?3.[0-9]+"
-    },
-    {
-      "name": "Firebase/AppIndexing",
-      "version": "^~>\\s?3.4.0$"
-    },
-    {
-      "name": "MLSearch/Suggestion",
-      "version": "^~>\\s?3.[0-9]+$"
-    },
-    {
-      "name": "CHTCollectionViewWaterfallLayout",
-      "version": "^~>\\s?0.[0-9]+$",
-      "expire": "2017-12-01"
-    },
-    {
-      "name": "MLShippingComponents",
-      "version": "^~>\\s?1.[0-9]+$",
-      "expire": "2017-12-15"
-    }
-  ]
+	"whitelist": [{
+			"name": "MeliSDK",
+			"version": "^~>\\s?6.[0-9]+$"
+		},
+		{
+			"name": "MLCart",
+			"version": "^~>\\s?2.[0-9]+"
+		},
+		{
+			"name": "MLRecommendations",
+			"version": "^~>\\s?4.[0-9]+"
+		},
+		{
+			"name": "MLAppRater",
+			"version": "^~>\\s?3.[0-9]+$"
+		},
+		{
+			"name": "MLImagePicker",
+			"version": "^~>\\s?0.[0-9]+$"
+		},
+		{
+			"name": "MPTopFloatingView",
+			"version": "^~>\\s?0.[0-9]+$"
+		},
+		{
+			"name": "MLPlace",
+			"version": "^~>\\s?3.[0-9]+"
+		},
+		{
+			"name": "Firebase/AppIndexing",
+			"version": "^~>\\s?3.4.0$"
+		},
+		{
+			"name": "MLSearch/Suggestion",
+			"version": "^~>\\s?3.[0-9]+$"
+		},
+		{
+			"name": "CHTCollectionViewWaterfallLayout",
+			"version": "^~>\\s?0.[0-9]+$",
+			"expire": "2017-12-01"
+		},
+		{
+			"name": "MLShippingComponents",
+			"version": "^~>\\s?1.[0-9]+$",
+			"expire": "2017-12-15"
+		},
+		{
+			"name": "MercadoPagoSDK"
+		}
+	]
 }
